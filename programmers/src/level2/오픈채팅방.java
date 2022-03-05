@@ -6,6 +6,12 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
+/**
+ * @author jenny
+ * @date 2022. 2. 27. - 오후 2:46:41
+ * @subject 프로그래머스 level2 
+ * @content 오픈채팅방
+ */
 public class 오픈채팅방 {
 
 	public static void main(String[] args) {
